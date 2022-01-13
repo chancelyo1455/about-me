@@ -1,4 +1,5 @@
 # about-me
-## to go hstat
-## plays basketball
-## listens to lots of music
+## My name is Chance
+## I go to hstat
+## I play basketball
+## I listen to lots of music
