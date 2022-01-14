@@ -1,6 +1,6 @@
-# **about-me**
+# **about me**
 ### 1. My name is Chance
-### 2. I go to [* *hstat* *](https://www.hstat.org)
+### 2. I go to [*hstat*](https://www.hstat.org)
 ### 3. I play basketball
 ### 4. I listen to lots of music, here are some artists I listen to.
 #### - [yeat](https://soundcloud.com/lilyeat)
